@@ -1,0 +1,15 @@
+test_iter: 49
+test_interval: 1554
+base_lr: 0.0099999998
+display: 32
+max_iter: 15540
+lr_policy: "sigmoid"
+gamma: -0.00032175033
+momentum: 0.89999998
+weight_decay: 9.9999997e-05
+stepsize: 7770
+snapshot: 7770
+snapshot_prefix: "snapshot"
+solver_mode: GPU
+net: "train_val.prototxt"
+solver_type: NESTEROV
